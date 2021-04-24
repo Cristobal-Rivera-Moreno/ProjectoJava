@@ -12,4 +12,8 @@ public class Imprimir {
         System.out.println("Hola estas usando la clase Imprimir");
     }
     
+    public void bienvenida(){
+        System.out.println("Bienvenido a la clase imprimir");
+    }
+    
 }

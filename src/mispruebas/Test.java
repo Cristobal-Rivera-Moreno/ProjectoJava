@@ -19,5 +19,6 @@ public class Test {
         obj.imprime();
         //-->primer commit<--
        obj.saluda();
+       obj.bienvenida();
     }
 }
