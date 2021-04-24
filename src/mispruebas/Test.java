@@ -18,6 +18,6 @@ public class Test {
         Imprimir obj=new Imprimir();
         obj.imprime();
         //-->primer commit<--
-        
+       obj.saluda();
     }
 }
